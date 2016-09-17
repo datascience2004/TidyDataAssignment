@@ -12,16 +12,12 @@ The Sources data for this assignment can be found at this [link](https://d396qus
 
 ## Information about the Data Set
 The data has been collected from a group of 30 volunteers within a age bracket of 19- 48 years. Each volunteer performed six activities:
+
 1. WALKING
-
 2. WALKING_UPSTAIRS
-
 3. WALKING_DOWNSTAIRS
-
 4. SITTING
-
 5. STANDING
-
 6. LAYING
 
 
@@ -33,10 +29,15 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 ## Attribute Information
 
 The following information is provided in the data set for each record: 
+
 1. Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+
 2. Triaxial Angular velocity from the gyroscope
+
 3. A 561-feature vector with time and frequency domain variables.
+
 4. Its activity label.
+
 5. An identifier of the subject who carried out the experiment.
 
 ## Transformations on the Data Set. 

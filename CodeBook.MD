@@ -13,11 +13,17 @@ The Sources data for this assignment can be found at this [link](https://d396qus
 ## Information about the Data Set
 The data has been collected from a group of 30 volunteers within a age bracket of 19- 48 years. Each volunteer performed six activities:
 1. WALKING
+
 2. WALKING_UPSTAIRS
+
 3. WALKING_DOWNSTAIRS
+
 4. SITTING
+
 5. STANDING
+
 6. LAYING
+
 
 while wearing a smartphone (Samsung Galaxy S II) over their waist. 
 Using its embedded accelerometer and gyroscope, we captured 3-axial linear acceleration and 3-axial angular velocity at a constant rate of 50Hz. The experiments have been video-recorded to label the data manually. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
